@@ -1,3 +1,8 @@
+This resources has been collected from 
+awesome-osint
+
+***This repository will be updated regularly
+
 A curated list of amazingly awesome open source intelligence tools and resources.
 [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is intelligence collected from publicly available sources.
 In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
